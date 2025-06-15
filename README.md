@@ -1,4 +1,4 @@
-# 🚗 CampusRide – Student Carpool App (Case Study)
+# 🚗 CampusRide – Ride Sharing App (Case Study)
 
 **Role:** UI/UX Designer  
 **Duration:** February – Present  
